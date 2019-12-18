@@ -1,8 +1,8 @@
-# book-store-java-servlet
+# Book-store-java-servlet
 
 This project is to build a book store using Java Servlet, Filter, JSP, JDBC, JSTL. 
 
-# function
+# Function
 
 - Login with authentication.
 - CRUD (insert, update, delete, view books) - only admin has permission to do this function
